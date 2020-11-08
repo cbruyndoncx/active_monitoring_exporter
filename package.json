@@ -1,0 +1,13 @@
+{
+  "name": "codeceptjs_exporter",
+  "version": "1.0.0",
+  "description": "Prometheus Exporter that runs codeceptjs scripts for active monitoring",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.0.1",
+    "express": "^4.17.1",
+    "puppeteer": "^5.3.1"
+  }
+}
